@@ -17,11 +17,9 @@
     "url": "https://github.com/gcanti/tcomb-react/issues"
   },
   "homepage": "https://github.com/gcanti/tcomb-react",
-  "peerDependencies": {
-    "react": "^0.14.0-beta1"
-  },
   "dependencies": {
-    "tcomb-validation": "^2.0.0"
+    "tcomb-validation": "^2.0.0",
+    "react": "^0.14.0-beta1"
   },
   "devDependencies": {
     "eslint": "^0.22.1",
