@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/gcanti/tcomb-react",
   "peerDependencies": {
-    "react": ">=0.13.0"
+    "react": "^0.14.0-beta1"
   },
   "dependencies": {
     "tcomb-validation": "^2.0.0"
